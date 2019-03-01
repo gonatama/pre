@@ -10,7 +10,7 @@
 #include "main.h"
 #include "enemy.h"
 
-#define	TEXTURE_FIELD	"data/TEXTURE/field004.jpg"		// 読み込むテクスチャファイル名
+#define	TEXTURE_FIELD	"data/TEXTURE/wall.png"		// 読み込むテクスチャファイル名
 
 //*****************************************************************************
 // プロトタイプ宣言

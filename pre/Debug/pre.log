@@ -1,2 +1,8 @@
-﻿  game.cpp
-  pre.vcxproj -> C:\Users\User\source\repos\pre\Debug\pre.exe
+﻿  enemy.cpp
+  game.cpp
+  meshfield.cpp
+  physics.cpp
+  player.cpp
+c:\users\user\desktop\pre\pre\player.cpp(586): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+  コードを生成中...
+  pre.vcxproj -> C:\Users\User\Desktop\pre\Debug\pre.exe
